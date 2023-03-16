@@ -4,7 +4,7 @@ This repository contains the dataset and model generated in the research project
 They consist of a set of 3000 appellate judgments resolving issues on child custody (individual or joint), alimony and allocation of the family home. Each of the judgments was manually labelled by two jurists, using the Brat program (https://brat.nlplab.org/). Only the legal grounds of the judgments were labelled.
 
 The contents of the repository are as follows:
--	Description of the tags
+-	Description of the labels
 -	Text of the judgments (grounds of law)
 -	Tags
 
