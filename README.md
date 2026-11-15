@@ -15,3 +15,5 @@ The name of the judgments is as follow:
 -	XXXXX: number
 
 In addition, the data used in a predictive model, elaborated with data extracted from the manual labelling of the sentences, is included. This model is described in Muñoz Soro JF, Serrano-Cinca C (2021) A model for predicting court decisions on child custody. PLoS ONE 16(10): e0258993. https://doi.org/10.1371/journal.pone.0258993.
+
+The materials in this repository may be used under the CC-BY license.
